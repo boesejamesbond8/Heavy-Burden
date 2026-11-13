@@ -202,4 +202,4 @@ This repository serves as the official landing page for *Heavy Burden*. The soft
 **Get the most recent version of *Heavy Burden* today!**
 
 ---
-**Last updated:** 2026-11-13 15:47:25 UTC
+**Last updated:** 2026-11-13 21:43:38 UTC
